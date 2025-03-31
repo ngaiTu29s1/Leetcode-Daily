@@ -1,2 +1,10 @@
+git clone https://github.com/ngaiTu29s1/Leetcode-Daily.git
+
+When prompted for your username and password:
+
+Enter your GitHub username.
+Use the Personal Access Token (PAT) as the password.
+
+
 git config --global credential.helper store
 
