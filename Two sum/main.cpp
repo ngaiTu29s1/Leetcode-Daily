@@ -29,5 +29,6 @@ int main(){
     for (int index : solve) {
         std::cout << index << " ";
     }
+    std::cout << std::endl;
     return 0;
 }
